@@ -13,7 +13,7 @@
 
 ## 🎯 Assignment
 
-### 🍕 Ordering a Pizza
+### Ordering a Pizza
 
 After spending a long day working at the computer, you decide to order a pizza.
 
