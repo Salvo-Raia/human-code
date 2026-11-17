@@ -1,6 +1,8 @@
-![Boolean Tech Academy](https://img.shields.io/badge/Boolean_Tech_Academy-001632?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Boolean_Tech_Academy-1565C0?style=for-the-badge)
 
-# 🎓 Exercise 13/50 - Human Code
+# 🎓 Exercise 13/50: Human Code
+
+An introduction to computational thinking through the breakdown of an everyday activity into clear, logical, step-by-step instructions.
 
 ## 📌 Project Overview
 
@@ -12,8 +14,6 @@
 | Exercise | 13/50 |
 
 ## 🎯 Assignment
-
-### Ordering a Pizza
 
 After spending a long day working at the computer, you decide to order a pizza.
 
@@ -36,4 +36,4 @@ The goal is to describe the entire process as a sequence of instructions that so
 
 ## ©️ Credits
 
-Exercise assigned by **Boolean Tech Academy** as part of the Web Development course - Class 152 - Year 2025-2026
+Exercise assigned by **Boolean Tech Academy** as part of the Web Development course (Class 152, A.Y. 2025–2026).
