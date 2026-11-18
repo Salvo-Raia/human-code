@@ -1,10 +1,10 @@
 ![Static Badge](https://img.shields.io/badge/Boolean_Tech_Academy-1565C0?style=for-the-badge)
 
-# 🎓 Exercise 13/50: Human Code
+# Exercise 13/50: Human Code
 
 An introduction to computational thinking through the breakdown of an everyday activity into clear, logical, step-by-step instructions.
 
-## 📌 Project Overview
+## Project Overview
 
 | Property | Details |
 |:--|:--|
@@ -13,7 +13,7 @@ An introduction to computational thinking through the breakdown of an everyday a
 | Type | Exercise |
 | Exercise | 13/50 |
 
-## 🎯 Assignment
+## Assignment
 
 After spending a long day working at the computer, you decide to order a pizza.
 
@@ -27,13 +27,13 @@ Break down the process into a sequence of clear, logical steps, taking into acco
 
 The goal is to describe the entire process as a sequence of instructions that someone could follow to complete the task successfully.
 
-## 💡 What I Learned
+## What I learned
 
 - Breaking down everyday activities into smaller, manageable steps.
 - Identifying the correct sequence of actions.
 - Translating real-world situations into logical instructions.
 - Practicing computational thinking and problem-solving.
 
-## ©️ Credits
+## Credits
 
-Exercise assigned by **Boolean Tech Academy** as part of the Web Development course (Class 152, A.Y. 2025–2026).
+Exercise assigned by **Boolean Tech Academy** as part of the Web Development course (Class 152, A.Y. 2025-2026).
