@@ -4,14 +4,11 @@
 
 An introduction to computational thinking through the breakdown of an everyday activity into clear, logical, step-by-step instructions.
 
-## Project Overview
+## Project overview
 
-| Property | Details |
-|:--|:--|
-| Repository | human-code |
-| Category | Boolean Tech Academy |
-| Type | Exercise |
-| Exercise | 13/50 |
+| Repository | Project | Category | Main Focus | Exercise |
+|:--|:--|:--|:--|:--|
+| human-code | Human Code | Exercise | Computational thinking | 13/50 |
 
 ## Assignment
 
